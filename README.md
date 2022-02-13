@@ -1,0 +1,1 @@
+# spring boot starter for cornucopib mq
